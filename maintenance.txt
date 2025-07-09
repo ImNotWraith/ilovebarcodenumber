@@ -1,2 +1,2 @@
-status: maintenance
-reason: Updating IP system due to bug report.
+status: ok
+reason: All systems operational.
