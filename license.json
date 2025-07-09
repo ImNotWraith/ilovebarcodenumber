@@ -1,16 +1,20 @@
 {
-  "imnotwraith": {
-    "token": "imnotwraith",
-    "created": "2025-01-01",
-    "expire": "2025-12-31",
-    "user": "Skyemane",
-    "type": "Premium"
+  "LICENSE-1234-5678-ABCD": {
+    "token": "LICENSE-1234-5678-ABCD",
+    "role": "premium",
+    "created": "2025-07-01",
+    "expire": "2025-12-31"
   },
-  "FREE-0000-KEY": {
-    "token": "FREE-0000-KEY",
-    "created": "2025-06-01",
-    "expire": "2025-07-01",
-    "user": "Trial User",
-    "type": "Trial"
+  "NORMAL-1111-2222-3333": {
+    "token": "NORMAL-1111-2222-3333",
+    "role": "normal",
+    "created": "2025-07-01",
+    "expire": "2025-08-01"
+  },
+  "ADMIN-9999-8888-WXYZ": {
+    "token": "ADMIN-9999-8888-WXYZ",
+    "role": "admin",
+    "created": "2025-07-01",
+    "expire": "2026-07-01"
   }
 }
